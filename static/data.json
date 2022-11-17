@@ -1,0 +1,46 @@
+[
+	{
+		"type": "grass",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/grass/subtypes/basic.png"
+	},
+	{
+		"type": "fire",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/fire/subtypes/basic.png"
+	},
+	{
+		"type": "water",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/water/subtypes/basic.png"
+	},
+	{
+		"type": "lightning",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/lightning/subtypes/basic.png"
+	},
+	{
+		"type": "psychic",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/psychic/subtypes/basic.png"
+	},
+	{
+		"type": "fighting",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/fighting/subtypes/basic.png"
+	},
+	{
+		"type": "dark",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/dark/subtypes/basic.png"
+	},
+		{
+		"type": "metal",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/metal/subtypes/basic.png"
+	},
+	{
+		"type": "fairy",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/fairy/subtypes/basic.png"
+	},
+	{
+		"type": "dragon",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/dragon/subtypes/basic.png"
+	},
+	{
+		"type": "colorless",
+		"url": "https://pokecardmaker.net/assets/cards/baseSets/swordAndShield/supertypes/pokemon/types/colorless/subtypes/basic.png"
+	}
+]
