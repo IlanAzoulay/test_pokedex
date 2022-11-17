@@ -40,13 +40,12 @@ export default {
 
     methods: {
         getCardURL() {
-            this.cardURL = ''
             if (this.pokemon == null || this.pokemon == undefined) {return "";}
             for (let i=0; i < this.json.length; i++) {
                 if (this.pokemon.types[0].type.name === this.json[i].type){
                     if (this.json[i].type == "dark"){this.textcolor = "white";}
                     else {this.textcolor = "black";}
-                    return this.cardURL = this.json[i].url;
+                    return this.json[i].url;
                 }
             }
             // No matching type found (give colorless by default)
